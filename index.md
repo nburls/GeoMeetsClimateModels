@@ -79,3 +79,9 @@ Relevant Repos:
 
 - Tibbett’s project: [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022PA004496](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022PA004496)
 - Brabson’s internship project seeds NSF award: [https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2402414&HistoricalAwards=false](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2402414&HistoricalAwards=false)
+
+---
+
+## Acknowledgements
+
+This internship was supported by NSF award AGS-1844380
