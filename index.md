@@ -1,3 +1,5 @@
+# Geo Meets Climate Models Summer Internship
+
 ## Introduction
 
 The scientific community now has access to an extensive archive of paleoclimate simulations, including experiments from the Paleoclimate Model Intercomparison Project ([PMIP](https://pmip.lsce.ipsl.fr/)), [PlioMIP](https://geology.er.usgs.gov/egpsc/prism/7_pliomip2.html), and [DeepMIP](https://www.deepmip.org/). These simulations offer incredible opportunities to explore past climate states and mechanisms. However, many geology graduate students lack the training to access and analyze climate model outputs, leaving a gap between paleoclimate data and model-based insights.
